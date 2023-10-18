@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyob-kefale&label=Profile%20views&color=0e75b6&style=flat" alt="eyob-kefale" /> </p>
 
-- 🌱 I’m currently learning **Express, React, MongoDB,NodeJS and Firebase**
+- 🌱 I’m currently learning **Express, React, MongoDB,NodeJS,Nextjs and Firebase**
 
 - 📫 **eyobkefale1@gmail.com**
 
