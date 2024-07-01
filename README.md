@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyob-kefale&label=Profile%20views&color=0e75b6&style=flat" alt="eyob-kefale" /> </p>
 
-- 🌱 I have graduated as a software engineer
+- 🌱 I have graduated as a software engineer.
 - 📫 **eyobkefale1@gmail.com**
 
 - ⚡ **Fun with football, computer programming, books, and movies**
