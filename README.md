@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm EYOB KEFALE</h1>
-<h3 align="center">A software engineer and a novice full-stack developer</h3>
+<h3 align="center">A software engineer and a full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyob-kefale&label=Profile%20views&color=0e75b6&style=flat" alt="eyob-kefale" /> </p>
 
-- 🌱 I’m currently learning **Express, React, MongoDB,NodeJS,Nextjs and Firebase**
-
+#- 🌱 I’m currently learning **Express, React, MongoDB,NodeJS,Nextjs and Firebase**
+- 🌱 I have graduated as a software engineer
 - 📫 **eyobkefale1@gmail.com**
 
 - ⚡ **Fun with football, computer programming, books, and movies**
