@@ -5,7 +5,7 @@
 
 - 🌱 I have graduated as a software engineer.
 - 📫 **eyobkefale1@gmail.com**
-- <a href="https://my-portfolio-alpha-six-16.vercel.app/" target="blank"><h2>My Portfolio</h2></a>
+
 
 - ⚡ **Fun with football, computer programming, books, and movies**
 
